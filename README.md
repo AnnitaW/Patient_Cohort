@@ -11,7 +11,7 @@ patients with hypertension. The sample data are from the MiMiC-III data reposito
 - matplotlib
 - google.cloud
 - sklearn
-- 
+
 ## License
 This repository is licensed under the terms of the GNU AGPLv3 license.
 
